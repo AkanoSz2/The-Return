@@ -1,7 +1,7 @@
 body {
   width: 100%;
   min-height: 100vh;
-  background: purple no-repeat right;
+  background: rgba(60, 60, 192, 0.733) no-repeat right;
   background-size: cover;
   display: flex;
   flex-direction: column;
