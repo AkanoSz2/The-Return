@@ -5,7 +5,7 @@ const minutesElement = document.getElementById('minutes');
 const secondsElement = document.getElementById('seconds');
 
 // Set the target date for the countdown
-const TheReturn = new Date('September 5, 2023 00:00:00').getTime();
+const TheReturn = new Date('December 31, 2023 00:00:00').getTime();
 
 // Start the timer
 function startTimer() {
